@@ -1,4 +1,4 @@
-# Project – Active Weight Analysis (Market Value-Based)
+# Active Weight Analysis (Market Value-Based)
 
 This project calculates the active weight of each stock in a portfolio by comparing the portfolio’s holdings with a benchmark index. The analysis is based on a snapshot of market values and does not involve return-based volatility estimation.
 
